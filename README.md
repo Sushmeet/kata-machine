@@ -1,6 +1,9 @@
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
+## Run typescript files locally
+npx tsx BinarySearchList.ts
+
 ## Naming
 ### Lig-Machine
 Lengthy Instrumentation Generating Massive Anticompetitive Computational Help for Intermediate Coders // n9
@@ -94,3 +97,4 @@ will get there when i cross that bridge.
 A simple way to specify test, thinking something like `tests.json` and `cat
 test.json 2> /dev/null` to specify the tests to run.  tests.json wouldn't be
 committed.
+
