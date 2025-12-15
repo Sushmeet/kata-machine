@@ -18,9 +18,7 @@ Brief summary of The Primeagen's algorithms practice (day-by-day highlights).
 -   
 
 ## Primegean Course summmary begins here.
-Here below I will go over things I am learning in this course 
+- Here below I will go over things I am learning in this course 
 
 ### Big O Time Complexity 
-Here I talk about Big O
-
----
+- Here I talk about Big O
