@@ -24,7 +24,7 @@ Brief summary of The Primeagen's algorithms practice (day-by-day highlights).
 - Here I talk about Big O
 - When someone says your algorithm is O(n) that means your algo will grow linearly
   - An example of this can be a for loop which traverses all n integers in an array.
-  -    ```javascript
+  ```javascript
 // Example: this code block below has a big Oh of n.
 function findMax(arr) {
   if (!Array.isArray(arr) || arr.length === 0) return undefined;
