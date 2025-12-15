@@ -15,5 +15,12 @@ Brief summary of The Primeagen's algorithms practice (day-by-day highlights).
 
 -   This repository contains many example implementations and tests under `src/` and `src/__tests__/`.
 -   Push to GitHub to view rendered `.md` files directly on the repository web UI.
+-   
+
+## Primegean Course summmary begins here.
+Here below I will go over things I am learning in this course 
+
+### Big O Time Complexity 
+Here I talk about Big O
 
 ---
