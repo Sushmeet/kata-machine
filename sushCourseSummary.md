@@ -26,16 +26,6 @@ Brief summary of The Primeagen's algorithms practice (day-by-day highlights).
   - An example of this can be a for loop which traverses all n integers in an array.
 
 
-  ```javascript
-function findMax(arr) {
-  if (!Array.isArray(arr) || arr.length === 0) return undefined;
-  let max = arr[0];
-  for (let i = 1; i < arr.length; i++) {
-    if (arr[i] > max) max = arr[i];
-  }
-  return max;
-}
-````
 
 ```javascript
 // Example: this code block below has a big Oh of n.
