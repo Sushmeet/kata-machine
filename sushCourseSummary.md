@@ -22,3 +22,5 @@ Brief summary of The Primeagen's algorithms practice (day-by-day highlights).
 
 ### Big O Time Complexity 
 - Here I talk about Big O
+- When someone says your algorithm is O(n) that means your algo will grow linearly
+  - An example of this can be a for loop which traverses all n integers in an array.
