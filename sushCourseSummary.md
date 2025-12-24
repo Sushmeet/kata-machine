@@ -38,3 +38,10 @@ function findMax(arr) {
   return max;
 }
 ````
+
+- Some imp concepts when you calculate big O(n)
+  - Growth is with respect to input. 
+  - Constants are always dropped so O(2n) or O(n-2) -> O(n)
+  - Worst case scenario is the way we measure.
+- An example of constant time in O(n)
+  - Insertion or deltetion into an array. Both operations are O(1) regardless of the size of input. 
