@@ -22,8 +22,22 @@ export default function bs_list(haystack: number[], needle: number): boolean {
 
 const arr = [1, 2, 3, 4, 5, 6, 7, 8];
 
-// const result1 = bs_list(arr, 6);
-// console.log("result1", result1);
+const result1 = bs_list(arr, 6);
+console.log("result1", result1);
 
-// const result2 = bs_list(arr, 10);
-// console.log("result2", result2)
+const result2 = bs_list(arr, 10);
+console.log("result2", result2)
+
+// separat test file is also there in __tests__ folder
+/*
+test("binary search array", function() {
+
+    const foo = [1, 3, 4, 69, 71, 81, 90, 99, 420, 1337, 69420];
+    expect(binary_fn(foo, 69)).toEqual(true);
+    expect(binary_fn(foo, 1336)).toEqual(false);
+    expect(binary_fn(foo, 69420)).toEqual(true);
+    expect(binary_fn(foo, 69421)).toEqual(false);
+    expect(binary_fn(foo, 1)).toEqual(true);
+    expect(binary_fn(foo, 0)).toEqual(false);
+});
+*/
